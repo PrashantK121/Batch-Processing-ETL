@@ -1,0 +1,1481 @@
+Header of File
+1;54;37;2023-06-07;952.34;Setubal;Portugal
+3;77;45;2023-10-15;124.89;Luanda;Angola
+4;88;89;2023-01-22;299.99;Lagos;Nigeria
+5;30;78;2023-03-14;543.21;New Castle;England
+6;2;3;2024-05-21;875.34;Nanjing;China
+7;11;56;2023-11-04;432.1;Sochi;Russia
+8;25;34;2024-01-19;764.32;Lviv;Ukraine
+9;66;79;2023-02-11;199.95;Nairobi;Kenya
+10;34;56;2024-05-21;875.34;Yanam;India
+11;1;1;2024-05-21;875.34;Porto;Portugal
+12;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+13;12;78;2024-02-14;489.22;Bahia;Brazil
+14;23;12;2023-04-21;348.67;Quebec;Canada
+15;77;45;2023-10-15;124.89;Luanda;Angola
+16;15;67;2023-09-11;678.45;Lisbon;Portugal
+17;88;89;2023-01-22;299.99;Lagos;Nigeria
+18;30;78;2023-03-14;543.21;New Castle;England
+20;11;56;2023-11-04;432.1;Sochi;Russia
+21;25;34;2024-01-19;764.32;Lviv;Ukraine
+22;66;79;2023-02-11;199.95;Nairobi;Kenya
+24;1;1;2024-05-21;875.34;Porto;Portugal
+25;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+26;12;78;2024-02-14;489.22;Bahia;Brazil
+27;15;67;2023-09-11;678.45;Lisbon;Portugal
+28;88;89;2023-01-22;299.99;Nice;France
+29;30;78;2023-03-14;543.21;New Castle;England
+33;77;45;2023-10-15;124.89;Luanda;Angola
+34;15;67;2023-09-11;678.45;Lisbon;Portugal
+35;88;89;2023-01-22;299.99;Lagos;Nigeria
+36;30;78;2023-03-14;543.21;New Castle;England
+38;11;56;2023-11-04;432.1;Sochi;Russia
+39;25;34;2024-01-19;764.32;Lviv;Ukraine
+40;66;79;2023-02-11;199.95;Nairobi;Kenya
+42;1;1;2024-05-21;875.34;Porto;Portugal
+43;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+44;12;78;2024-02-14;489.22;Bahia;Brazil
+46;77;45;2023-10-15;124.89;Luanda;Angola
+47;15;67;2023-09-11;678.45;Lisbon;Portugal
+48;88;89;2023-01-22;299.99;Lagos;Nigeria
+49;30;78;2023-03-14;543.21;New Castle;England
+51;11;56;2023-11-04;432.1;Sochi;Russia
+52;25;34;2024-01-19;764.32;Lviv;Ukraine
+53;66;79;2023-02-11;199.95;Nairobi;Kenya
+55;1;1;2024-05-21;875.34;Porto;Portugal
+56;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+57;12;78;2024-02-14;489.22;Bahia;Brazil
+58;34;56;2024-05-21;875.34;Yanam;India
+59;15;67;2023-09-11;678.45;Lisbon;Portugal
+60;88;89;2023-01-22;299.99;Lagos;Nigeria
+61;30;78;2023-03-14;543.21;New Castle;England
+65;77;45;2023-10-15;124.89;Luanda;Angola
+66;15;67;2023-09-11;678.45;Lisbon;Portugal
+67;88;89;2023-01-22;299.99;Lagos;Nigeria
+68;30;78;2023-03-14;543.21;New Castle;England
+70;11;56;2023-11-04;432.1;Sochi;Russia
+71;25;34;2024-01-19;764.32;Lviv;Ukraine
+72;66;79;2023-02-11;199.95;Nairobi;Kenya
+74;1;1;2024-05-21;875.34;Porto;Portugal
+75;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+76;12;78;2024-02-14;489.22;Bahia;Brazil
+78;77;45;2023-10-15;124.89;Luanda;Angola
+79;15;67;2023-09-11;678.45;Lisbon;Portugal
+80;88;89;2023-01-22;299.99;Lagos;Nigeria
+81;30;78;2023-03-14;543.21;New Castle;England
+83;11;56;2023-11-04;432.1;Sochi;Russia
+84;25;34;2024-01-19;764.32;Lviv;Ukraine
+85;66;79;2023-02-11;199.95;Nairobi;Kenya
+87;1;1;2024-05-21;875.34;Porto;Portugal
+88;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+89;12;78;2024-02-14;489.22;Bahia;Brazil
+90;15;67;2023-09-11;678.45;Lisbon;Portugal
+91;88;89;2023-01-22;299.99;Lagos;Nigeria
+92;30;78;2023-03-14;543.21;New Castle;England
+96;77;45;2023-10-15;124.89;Luanda;Angola
+97;15;67;2023-09-11;678.45;Lisbon;Portugal
+98;88;89;2023-01-22;299.99;Lagos;Nigeria
+99;30;78;2023-03-14;543.21;New Castle;England
+101;11;56;2023-11-04;432.1;Sochi;Russia
+102;25;34;2024-01-19;764.32;Lviv;Ukraine
+103;66;79;2023-02-11;199.95;Nairobi;Kenya
+105;1;1;2024-05-21;875.34;Porto;Portugal
+106;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+107;12;78;2024-02-14;489.22;Bahia;Brazil
+109;77;45;2023-10-15;124.89;Luanda;Angola
+110;15;67;2023-09-11;678.45;Lisbon;Portugal
+111;88;89;2023-01-22;299.99;Lagos;Nigeria
+112;30;78;2023-03-14;543.21;New Castle;England
+114;11;56;2023-11-04;432.1;Sochi;Russia
+115;25;34;2024-01-19;764.32;Lviv;Ukraine
+116;66;79;2023-02-11;199.95;Nairobi;Kenya
+118;1;1;2024-05-21;875.34;Porto;Portugal
+119;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+120;12;78;2024-02-14;489.22;Bahia;Brazil
+121;15;67;2023-09-11;678.45;Lisbon;Portugal
+122;88;89;2023-01-22;299.99;Lagos;Nigeria
+123;30;78;2023-03-14;543.21;New Castle;England
+127;77;45;2023-10-15;124.89;Luanda;Angola
+128;15;67;2023-09-11;678.45;Lisbon;Portugal
+129;88;89;2023-01-22;299.99;Lagos;Nigeria
+130;30;78;2023-03-14;543.21;New Castle;England
+132;11;56;2023-11-04;432.1;Sochi;Russia
+133;25;34;2024-01-19;764.32;Lviv;Ukraine
+134;66;79;2023-02-11;199.95;Nairobi;Kenya
+136;1;1;2024-05-21;875.34;Porto;Portugal
+137;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+138;12;78;2024-02-14;489.22;Bahia;Brazil
+140;77;45;2023-10-15;124.89;Luanda;Angola
+141;15;67;2023-09-11;678.45;Lisbon;Portugal
+142;88;89;2023-01-22;299.99;Lagos;Nigeria
+143;30;78;2023-03-14;543.21;New Castle;England
+145;11;56;2023-11-04;432.1;Sochi;Russia
+146;25;34;2024-01-19;764.32;Lviv;Ukraine
+147;66;79;2023-02-11;199.95;Nairobi;Kenya
+149;1;1;2024-05-21;875.34;Porto;Portugal
+150;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+151;12;78;2024-02-14;489.22;Bahia;Brazil
+152;15;67;2023-09-11;678.45;Lisbon;Portugal
+153;88;89;2023-01-22;299.99;Lagos;Nigeria
+154;30;78;2023-03-14;543.21;New Castle;England
+158;77;45;2023-10-15;124.89;Luanda;Angola
+159;15;67;2023-09-11;678.45;Lisbon;Portugal
+160;88;89;2023-01-22;299.99;Lagos;Nigeria
+161;30;78;2023-03-14;543.21;New Castle;England
+163;11;56;2023-11-04;432.1;Sochi;Russia
+164;25;34;2024-01-19;764.32;Lviv;Ukraine
+165;66;79;2023-02-11;199.95;Nairobi;Kenya
+167;1;1;2024-05-21;875.34;Porto;Portugal
+168;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+169;12;78;2024-02-14;489.22;Bahia;Brazil
+171;77;45;2023-10-15;124.89;Luanda;Angola
+172;15;67;2023-09-11;678.45;Lisbon;Portugal
+173;88;89;2023-01-22;299.99;Lagos;Nigeria
+174;30;78;2023-03-14;543.21;New Castle;England
+176;11;56;2023-11-04;432.1;Sochi;Russia
+177;25;34;2024-01-19;764.32;Lviv;Ukraine
+178;66;79;2023-02-11;199.95;Nairobi;Kenya
+180;1;1;2024-05-21;875.34;Porto;Portugal
+181;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+182;12;78;2024-02-14;489.22;Bahia;Brazil
+183;15;67;2023-09-11;678.45;Lisbon;Portugal
+184;88;89;2023-01-22;299.99;Lagos;Nigeria
+185;30;78;2023-03-14;543.21;New Castle;England
+189;77;45;2023-10-15;124.89;Luanda;Angola
+190;15;67;2023-09-11;678.45;Lisbon;Portugal
+191;88;89;2023-01-22;299.99;Lagos;Nigeria
+192;30;78;2023-03-14;543.21;New Castle;England
+194;11;56;2023-11-04;432.1;Sochi;Russia
+195;25;34;2024-01-19;764.32;Lviv;Ukraine
+196;66;79;2023-02-11;199.95;Nairobi;Kenya
+198;1;1;2024-05-21;875.34;Porto;Portugal
+199;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+200;12;78;2024-02-14;489.22;Bahia;Brazil
+202;77;45;2023-10-15;124.89;Luanda;Angola
+203;15;67;2023-09-11;678.45;Lisbon;Portugal
+204;88;89;2023-01-22;299.99;Lagos;Nigeria
+205;30;78;2023-03-14;543.21;New Castle;England
+207;11;56;2023-11-04;432.1;Sochi;Russia
+208;25;34;2024-01-19;764.32;Lviv;Ukraine
+209;66;79;2023-02-11;199.95;Nairobi;Kenya
+211;1;1;2024-05-21;875.34;Porto;Portugal
+212;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+213;12;78;2024-02-14;489.22;Bahia;Brazil
+214;15;67;2023-09-11;678.45;Lisbon;Portugal
+215;88;89;2023-01-22;299.99;Lagos;Nigeria
+216;30;78;2023-03-14;543.21;New Castle;England
+220;77;45;2023-10-15;124.89;Luanda;Angola
+221;15;67;2023-09-11;678.45;Lisbon;Portugal
+222;88;89;2023-01-22;299.99;Lagos;Nigeria
+223;30;78;2023-03-14;543.21;New Castle;England
+225;11;56;2023-11-04;432.1;Sochi;Russia
+226;25;34;2024-01-19;764.32;Lviv;Ukraine
+227;66;79;2023-02-11;199.95;Nairobi;Kenya
+229;1;1;2024-05-21;875.34;Porto;Portugal
+230;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+231;12;78;2024-02-14;489.22;Bahia;Brazil
+233;77;45;2023-10-15;124.89;Luanda;Angola
+234;15;67;2023-09-11;678.45;Lisbon;Portugal
+235;88;89;2023-01-22;299.99;Lagos;Nigeria
+236;30;78;2023-03-14;543.21;New Castle;England
+238;11;56;2023-11-04;432.1;Sochi;Russia
+239;25;34;2024-01-19;764.32;Lviv;Ukraine
+240;66;79;2023-02-11;199.95;Nairobi;Kenya
+242;1;1;2024-05-21;875.34;Porto;Portugal
+243;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+244;12;78;2024-02-14;489.22;Bahia;Brazil
+245;15;67;2023-09-11;678.45;Lisbon;Portugal
+246;88;89;2023-01-22;299.99;Lagos;Nigeria
+247;30;78;2023-03-14;543.21;New Castle;England
+251;77;45;2023-10-15;124.89;Luanda;Angola
+252;15;67;2023-09-11;678.45;Lisbon;Portugal
+253;88;89;2023-01-22;299.99;Lagos;Nigeria
+254;30;78;2023-03-14;543.21;New Castle;England
+256;11;56;2023-11-04;432.1;Sochi;Russia
+257;25;34;2024-01-19;764.32;Lviv;Ukraine
+258;66;79;2023-02-11;199.95;Nairobi;Kenya
+260;1;1;2024-05-21;875.34;Porto;Portugal
+261;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+262;12;78;2024-02-14;489.22;Bahia;Brazil
+264;77;45;2023-10-15;124.89;Luanda;Angola
+265;15;67;2023-09-11;678.45;Lisbon;Portugal
+266;88;89;2023-01-22;299.99;Lagos;Nigeria
+267;30;78;2023-03-14;543.21;New Castle;England
+269;11;56;2023-11-04;432.1;Sochi;Russia
+270;25;34;2024-01-19;764.32;Lviv;Ukraine
+271;66;79;2023-02-11;199.95;Nairobi;Kenya
+273;1;1;2024-05-21;875.34;Porto;Portugal
+274;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+275;12;78;2024-02-14;489.22;Bahia;Brazil
+276;15;67;2023-09-11;678.45;Lisbon;Portugal
+277;88;89;2023-01-22;299.99;Lagos;Nigeria
+278;30;78;2023-03-14;543.21;New Castle;England
+282;77;45;2023-10-15;124.89;Luanda;Angola
+283;15;67;2023-09-11;678.45;Lisbon;Portugal
+284;88;89;2023-01-22;299.99;Lagos;Nigeria
+285;30;78;2023-03-14;543.21;New Castle;England
+287;11;56;2023-11-04;432.1;Sochi;Russia
+288;25;34;2024-01-19;764.32;Lviv;Ukraine
+289;66;79;2023-02-11;199.95;Nairobi;Kenya
+291;1;1;2024-05-21;875.34;Porto;Portugal
+292;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+293;12;78;2024-02-14;489.22;Bahia;Brazil
+295;77;45;2023-10-15;124.89;Luanda;Angola
+296;15;67;2023-09-11;678.45;Lisbon;Portugal
+297;88;89;2023-01-22;299.99;Lagos;Nigeria
+298;30;78;2023-03-14;543.21;New Castle;England
+300;11;56;2023-11-04;432.1;Sochi;Russia
+301;25;34;2024-01-19;764.32;Lviv;Ukraine
+302;66;79;2023-02-11;199.95;Nairobi;Kenya
+304;1;1;2024-05-21;875.34;Porto;Portugal
+305;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+306;12;78;2024-02-14;489.22;Bahia;Brazil
+307;15;67;2023-09-11;678.45;Lisbon;Portugal
+308;88;89;2023-01-22;299.99;Lagos;Nigeria
+309;30;78;2023-03-14;543.21;New Castle;England
+313;77;45;2023-10-15;124.89;Luanda;Angola
+314;15;67;2023-09-11;678.45;Lisbon;Portugal
+315;88;89;2023-01-22;299.99;Lagos;Nigeria
+316;30;78;2023-03-14;543.21;New Castle;England
+318;11;56;2023-11-04;432.1;Sochi;Russia
+319;25;34;2024-01-19;764.32;Lviv;Ukraine
+320;66;79;2023-02-11;199.95;Nairobi;Kenya
+322;1;1;2024-05-21;875.34;Porto;Portugal
+323;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+324;12;78;2024-02-14;489.22;Bahia;Brazil
+326;77;45;2023-10-15;124.89;Luanda;Angola
+327;15;67;2023-09-11;678.45;Lisbon;Portugal
+328;88;89;2023-01-22;299.99;Lagos;Nigeria
+329;30;78;2023-03-14;543.21;New Castle;England
+331;11;56;2023-11-04;432.1;Sochi;Russia
+332;25;34;2024-01-19;764.32;Lviv;Ukraine
+333;66;79;2023-02-11;199.95;Nairobi;Kenya
+335;1;1;2024-05-21;875.34;Porto;Portugal
+336;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+337;12;78;2024-02-14;489.22;Bahia;Brazil
+338;15;67;2023-09-11;678.45;Lisbon;Portugal
+339;88;89;2023-01-22;299.99;Lagos;Nigeria
+340;30;78;2023-03-14;543.21;New Castle;England
+344;77;45;2023-10-15;124.89;Luanda;Angola
+345;15;67;2023-09-11;678.45;Lisbon;Portugal
+346;88;89;2023-01-22;299.99;Lagos;Nigeria
+347;30;78;2023-03-14;543.21;New Castle;England
+349;11;56;2023-11-04;432.1;Sochi;Russia
+350;25;34;2024-01-19;764.32;Lviv;Ukraine
+351;66;79;2023-02-11;199.95;Nairobi;Kenya
+353;1;1;2024-05-21;875.34;Porto;Portugal
+354;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+355;12;78;2024-02-14;489.22;Bahia;Brazil
+357;77;45;2023-10-15;124.89;Luanda;Angola
+358;15;67;2023-09-11;678.45;Lisbon;Portugal
+359;88;89;2023-01-22;299.99;Lagos;Nigeria
+360;30;78;2023-03-14;543.21;New Castle;England
+362;11;56;2023-11-04;432.1;Sochi;Russia
+363;25;34;2024-01-19;764.32;Lviv;Ukraine
+364;66;79;2023-02-11;199.95;Nairobi;Kenya
+366;1;1;2024-05-21;875.34;Porto;Portugal
+367;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+368;12;78;2024-02-14;489.22;Bahia;Brazil
+369;15;67;2023-09-11;678.45;Lisbon;Portugal
+370;88;89;2023-01-22;299.99;Lagos;Nigeria
+371;30;78;2023-03-14;543.21;New Castle;England
+375;77;45;2023-10-15;124.89;Luanda;Angola
+376;15;67;2023-09-11;678.45;Lisbon;Portugal
+377;88;89;2023-01-22;299.99;Lagos;Nigeria
+378;30;78;2023-03-14;543.21;New Castle;England
+380;11;56;2023-11-04;432.1;Sochi;Russia
+381;25;34;2024-01-19;764.32;Lviv;Ukraine
+382;66;79;2023-02-11;199.95;Nairobi;Kenya
+384;1;1;2024-05-21;875.34;Porto;Portugal
+385;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+386;12;78;2024-02-14;489.22;Bahia;Brazil
+388;77;45;2023-10-15;124.89;Luanda;Angola
+389;15;67;2023-09-11;678.45;Lisbon;Portugal
+390;88;89;2023-01-22;299.99;Lagos;Nigeria
+391;30;78;2023-03-14;543.21;New Castle;England
+393;11;56;2023-11-04;432.1;Sochi;Russia
+394;25;34;2024-01-19;764.32;Lviv;Ukraine
+395;66;79;2023-02-11;199.95;Nairobi;Kenya
+397;1;1;2024-05-21;875.34;Porto;Portugal
+398;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+399;12;78;2024-02-14;489.22;Bahia;Brazil
+400;15;67;2023-09-11;678.45;Lisbon;Portugal
+401;88;89;2023-01-22;299.99;Lagos;Nigeria
+402;30;78;2023-03-14;543.21;New Castle;England
+406;77;45;2023-10-15;124.89;Luanda;Angola
+407;15;67;2023-09-11;678.45;Lisbon;Portugal
+408;88;89;2023-01-22;299.99;Lagos;Nigeria
+409;30;78;2023-03-14;543.21;New Castle;England
+411;11;56;2023-11-04;432.1;Sochi;Russia
+412;25;34;2024-01-19;764.32;Lviv;Ukraine
+413;66;79;2023-02-11;199.95;Nairobi;Kenya
+415;1;1;2024-05-21;875.34;Porto;Portugal
+416;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+417;12;78;2024-02-14;489.22;Bahia;Brazil
+419;77;45;2023-10-15;124.89;Luanda;Angola
+420;15;67;2023-09-11;678.45;Lisbon;Portugal
+421;88;89;2023-01-22;299.99;Lagos;Nigeria
+422;30;78;2023-03-14;543.21;New Castle;England
+424;11;56;2023-11-04;432.1;Sochi;Russia
+425;25;34;2024-01-19;764.32;Lviv;Ukraine
+426;66;79;2023-02-11;199.95;Nairobi;Kenya
+428;1;1;2024-05-21;875.34;Porto;Portugal
+429;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+430;12;78;2024-02-14;489.22;Bahia;Brazil
+431;15;67;2023-09-11;678.45;Lisbon;Portugal
+432;88;89;2023-01-22;299.99;Lagos;Nigeria
+433;30;78;2023-03-14;543.21;New Castle;England
+437;77;45;2023-10-15;124.89;Luanda;Angola
+438;15;67;2023-09-11;678.45;Lisbon;Portugal
+439;88;89;2023-01-22;299.99;Lagos;Nigeria
+440;30;78;2023-03-14;543.21;New Castle;England
+442;11;56;2023-11-04;432.1;Sochi;Russia
+443;25;34;2024-01-19;764.32;Lviv;Ukraine
+444;66;79;2023-02-11;199.95;Nairobi;Kenya
+446;1;1;2024-05-21;875.34;Porto;Portugal
+447;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+448;12;78;2024-02-14;489.22;Bahia;Brazil
+450;77;45;2023-10-15;124.89;Luanda;Angola
+451;15;67;2023-09-11;678.45;Lisbon;Portugal
+452;88;89;2023-01-22;299.99;Lagos;Nigeria
+453;30;78;2023-03-14;543.21;New Castle;England
+455;11;56;2023-11-04;432.1;Sochi;Russia
+456;25;34;2024-01-19;764.32;Lviv;Ukraine
+457;66;79;2023-02-11;199.95;Nairobi;Kenya
+459;1;1;2024-05-21;875.34;Porto;Portugal
+460;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+461;12;78;2024-02-14;489.22;Bahia;Brazil
+462;15;67;2023-09-11;678.45;Lisbon;Portugal
+463;88;89;2023-01-22;299.99;Lagos;Nigeria
+464;30;78;2023-03-14;543.21;New Castle;England
+468;77;45;2023-10-15;124.89;Luanda;Angola
+469;15;67;2023-09-11;678.45;Lisbon;Portugal
+470;88;89;2023-01-22;299.99;Lagos;Nigeria
+471;30;78;2023-03-14;543.21;New Castle;England
+473;11;56;2023-11-04;432.1;Sochi;Russia
+474;25;34;2024-01-19;764.32;Lviv;Ukraine
+475;66;79;2023-02-11;199.95;Nairobi;Kenya
+477;1;1;2024-05-21;875.34;Porto;Portugal
+478;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+479;12;78;2024-02-14;489.22;Bahia;Brazil
+481;77;45;2023-10-15;124.89;Luanda;Angola
+482;15;67;2023-09-11;678.45;Lisbon;Portugal
+483;88;89;2023-01-22;299.99;Lagos;Nigeria
+484;30;78;2023-03-14;543.21;New Castle;England
+486;11;56;2023-11-04;432.1;Sochi;Russia
+487;25;34;2024-01-19;764.32;Lviv;Ukraine
+488;66;79;2023-02-11;199.95;Nairobi;Kenya
+490;1;1;2024-05-21;875.34;Porto;Portugal
+491;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+492;12;78;2024-02-14;489.22;Bahia;Brazil
+493;15;67;2023-09-11;678.45;Lisbon;Portugal
+494;88;89;2023-01-22;299.99;Lagos;Nigeria
+495;30;78;2023-03-14;543.21;New Castle;England
+499;77;45;2023-10-15;124.89;Luanda;Angola
+500;15;67;2023-09-11;678.45;Lisbon;Portugal
+501;88;89;2023-01-22;299.99;Lagos;Nigeria
+502;30;78;2023-03-14;543.21;New Castle;England
+504;11;56;2023-11-04;432.1;Sochi;Russia
+505;25;34;2024-01-19;764.32;Lviv;Ukraine
+506;66;79;2023-02-11;199.95;Nairobi;Kenya
+508;1;1;2024-05-21;875.34;Porto;Portugal
+509;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+510;12;78;2024-02-14;489.22;Bahia;Brazil
+512;77;45;2023-10-15;124.89;Luanda;Angola
+513;15;67;2023-09-11;678.45;Lisbon;Portugal
+514;88;89;2023-01-22;299.99;Lagos;Nigeria
+515;30;78;2023-03-14;543.21;New Castle;England
+517;11;56;2023-11-04;432.1;Sochi;Russia
+518;25;34;2024-01-19;764.32;Lviv;Ukraine
+519;66;79;2023-02-11;199.95;Nairobi;Kenya
+521;1;1;2024-05-21;875.34;Porto;Portugal
+522;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+523;12;78;2024-02-14;489.22;Bahia;Brazil
+524;15;67;2023-09-11;678.45;Lisbon;Portugal
+525;88;89;2023-01-22;299.99;Lagos;Nigeria
+526;30;78;2023-03-14;543.21;New Castle;England
+530;77;45;2023-10-15;124.89;Luanda;Angola
+531;15;67;2023-09-11;678.45;Lisbon;Portugal
+532;88;89;2023-01-22;299.99;Lagos;Nigeria
+533;30;78;2023-03-14;543.21;New Castle;England
+535;11;56;2023-11-04;432.1;Sochi;Russia
+536;25;34;2024-01-19;764.32;Lviv;Ukraine
+537;66;79;2023-02-11;199.95;Nairobi;Kenya
+539;1;1;2024-05-21;875.34;Porto;Portugal
+540;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+541;12;78;2024-02-14;489.22;Bahia;Brazil
+543;77;45;2023-10-15;124.89;Luanda;Angola
+544;15;67;2023-09-11;678.45;Lisbon;Portugal
+545;88;89;2023-01-22;299.99;Lagos;Nigeria
+546;30;78;2023-03-14;543.21;New Castle;England
+548;11;56;2023-11-04;432.1;Sochi;Russia
+549;25;34;2024-01-19;764.32;Lviv;Ukraine
+550;66;79;2023-02-11;199.95;Nairobi;Kenya
+552;1;1;2024-05-21;875.34;Porto;Portugal
+553;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+554;12;78;2024-02-14;489.22;Bahia;Brazil
+555;15;67;2023-09-11;678.45;Lisbon;Portugal
+556;88;89;2023-01-22;299.99;Lagos;Nigeria
+557;30;78;2023-03-14;543.21;New Castle;England
+561;77;45;2023-10-15;124.89;Luanda;Angola
+562;15;67;2023-09-11;678.45;Lisbon;Portugal
+563;88;89;2023-01-22;299.99;Lagos;Nigeria
+564;30;78;2023-03-14;543.21;New Castle;England
+566;11;56;2023-11-04;432.1;Sochi;Russia
+567;25;34;2024-01-19;764.32;Lviv;Ukraine
+568;66;79;2023-02-11;199.95;Nairobi;Kenya
+570;1;1;2024-05-21;875.34;Porto;Portugal
+571;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+572;12;78;2024-02-14;489.22;Bahia;Brazil
+574;77;45;2023-10-15;124.89;Luanda;Angola
+575;15;67;2023-09-11;678.45;Lisbon;Portugal
+576;88;89;2023-01-22;299.99;Lagos;Nigeria
+577;30;78;2023-03-14;543.21;New Castle;England
+579;11;56;2023-11-04;432.1;Sochi;Russia
+580;25;34;2024-01-19;764.32;Lviv;Ukraine
+581;66;79;2023-02-11;199.95;Nairobi;Kenya
+583;1;1;2024-05-21;875.34;Porto;Portugal
+584;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+585;12;78;2024-02-14;489.22;Bahia;Brazil
+586;15;67;2023-09-11;678.45;Lisbon;Portugal
+587;88;89;2023-01-22;299.99;Lagos;Nigeria
+588;30;78;2023-03-14;543.21;New Castle;England
+592;77;45;2023-10-15;124.89;Luanda;Angola
+593;15;67;2023-09-11;678.45;Lisbon;Portugal
+594;88;89;2023-01-22;299.99;Lagos;Nigeria
+595;30;78;2023-03-14;543.21;New Castle;England
+597;11;56;2023-11-04;432.1;Sochi;Russia
+598;25;34;2024-01-19;764.32;Lviv;Ukraine
+599;66;79;2023-02-11;199.95;Nairobi;Kenya
+601;1;1;2024-05-21;875.34;Porto;Portugal
+602;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+603;12;78;2024-02-14;489.22;Bahia;Brazil
+605;77;45;2023-10-15;124.89;Luanda;Angola
+606;15;67;2023-09-11;678.45;Lisbon;Portugal
+607;88;89;2023-01-22;299.99;Lagos;Nigeria
+608;30;78;2023-03-14;543.21;New Castle;England
+610;11;56;2023-11-04;432.1;Sochi;Russia
+611;25;34;2024-01-19;764.32;Lviv;Ukraine
+612;66;79;2023-02-11;199.95;Nairobi;Kenya
+614;1;1;2024-05-21;875.34;Porto;Portugal
+615;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+616;12;78;2024-02-14;489.22;Bahia;Brazil
+617;15;67;2023-09-11;678.45;Lisbon;Portugal
+618;88;89;2023-01-22;299.99;Lagos;Nigeria
+619;30;78;2023-03-14;543.21;New Castle;England
+623;77;45;2023-10-15;124.89;Luanda;Angola
+624;15;67;2023-09-11;678.45;Lisbon;Portugal
+625;88;89;2023-01-22;299.99;Lagos;Nigeria
+626;30;78;2023-03-14;543.21;New Castle;England
+628;11;56;2023-11-04;432.1;Sochi;Russia
+629;25;34;2024-01-19;764.32;Lviv;Ukraine
+630;66;79;2023-02-11;199.95;Nairobi;Kenya
+632;1;1;2024-05-21;875.34;Porto;Portugal
+633;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+634;12;78;2024-02-14;489.22;Bahia;Brazil
+636;77;45;2023-10-15;124.89;Luanda;Angola
+637;15;67;2023-09-11;678.45;Lisbon;Portugal
+638;88;89;2023-01-22;299.99;Lagos;Nigeria
+639;30;78;2023-03-14;543.21;New Castle;England
+641;11;56;2023-11-04;432.1;Sochi;Russia
+642;25;34;2024-01-19;764.32;Lviv;Ukraine
+643;66;79;2023-02-11;199.95;Nairobi;Kenya
+645;1;1;2024-05-21;875.34;Porto;Portugal
+646;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+647;12;78;2024-02-14;489.22;Bahia;Brazil
+648;15;67;2023-09-11;678.45;Lisbon;Portugal
+649;88;89;2023-01-22;299.99;Lagos;Nigeria
+650;30;78;2023-03-14;543.21;New Castle;England
+654;77;45;2023-10-15;124.89;Luanda;Angola
+655;15;67;2023-09-11;678.45;Lisbon;Portugal
+656;88;89;2023-01-22;299.99;Lagos;Nigeria
+657;30;78;2023-03-14;543.21;New Castle;England
+659;11;56;2023-11-04;432.1;Sochi;Russia
+660;25;34;2024-01-19;764.32;Lviv;Ukraine
+661;66;79;2023-02-11;199.95;Nairobi;Kenya
+663;1;1;2024-05-21;875.34;Porto;Portugal
+664;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+665;12;78;2024-02-14;489.22;Bahia;Brazil
+667;77;45;2023-10-15;124.89;Luanda;Angola
+668;15;67;2023-09-11;678.45;Lisbon;Portugal
+669;88;89;2023-01-22;299.99;Lagos;Nigeria
+670;30;78;2023-03-14;543.21;New Castle;England
+672;11;56;2023-11-04;432.1;Sochi;Russia
+673;25;34;2024-01-19;764.32;Lviv;Ukraine
+674;66;79;2023-02-11;199.95;Nairobi;Kenya
+676;1;1;2024-05-21;875.34;Porto;Portugal
+677;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+678;12;78;2024-02-14;489.22;Bahia;Brazil
+679;15;67;2023-09-11;678.45;Lisbon;Portugal
+680;88;89;2023-01-22;299.99;Lagos;Nigeria
+681;30;78;2023-03-14;543.21;New Castle;England
+685;77;45;2023-10-15;124.89;Luanda;Angola
+686;15;67;2023-09-11;678.45;Lisbon;Portugal
+687;88;89;2023-01-22;299.99;Lagos;Nigeria
+688;30;78;2023-03-14;543.21;New Castle;England
+690;11;56;2023-11-04;432.1;Sochi;Russia
+691;25;34;2024-01-19;764.32;Lviv;Ukraine
+692;66;79;2023-02-11;199.95;Nairobi;Kenya
+694;1;1;2024-05-21;875.34;Porto;Portugal
+695;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+696;12;78;2024-02-14;489.22;Bahia;Brazil
+698;77;45;2023-10-15;124.89;Luanda;Angola
+699;15;67;2023-09-11;678.45;Lisbon;Portugal
+700;88;89;2023-01-22;299.99;Lagos;Nigeria
+701;30;78;2023-03-14;543.21;New Castle;England
+703;11;56;2023-11-04;432.1;Sochi;Russia
+704;25;34;2024-01-19;764.32;Lviv;Ukraine
+705;66;79;2023-02-11;199.95;Nairobi;Kenya
+707;1;1;2024-05-21;875.34;Porto;Portugal
+708;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+709;12;78;2024-02-14;489.22;Bahia;Brazil
+710;15;67;2023-09-11;678.45;Lisbon;Portugal
+711;88;89;2023-01-22;299.99;Lagos;Nigeria
+712;30;78;2023-03-14;543.21;New Castle;England
+716;77;45;2023-10-15;124.89;Luanda;Angola
+717;15;67;2023-09-11;678.45;Lisbon;Portugal
+718;88;89;2023-01-22;299.99;Lagos;Nigeria
+719;30;78;2023-03-14;543.21;New Castle;England
+721;11;56;2023-11-04;432.1;Sochi;Russia
+722;25;34;2024-01-19;764.32;Lviv;Ukraine
+723;66;79;2023-02-11;199.95;Nairobi;Kenya
+725;1;1;2024-05-21;875.34;Porto;Portugal
+726;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+727;12;78;2024-02-14;489.22;Bahia;Brazil
+729;77;45;2023-10-15;124.89;Luanda;Angola
+730;15;67;2023-09-11;678.45;Lisbon;Portugal
+731;88;89;2023-01-22;299.99;Lagos;Nigeria
+732;30;78;2023-03-14;543.21;New Castle;England
+734;11;56;2023-11-04;432.1;Sochi;Russia
+735;25;34;2024-01-19;764.32;Lviv;Ukraine
+736;66;79;2023-02-11;199.95;Nairobi;Kenya
+738;1;1;2024-05-21;875.34;Porto;Portugal
+739;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+740;12;78;2024-02-14;489.22;Bahia;Brazil
+741;15;67;2023-09-11;678.45;Lisbon;Portugal
+742;88;89;2023-01-22;299.99;Lagos;Nigeria
+743;30;78;2023-03-14;543.21;New Castle;England
+747;77;45;2023-10-15;124.89;Luanda;Angola
+748;15;67;2023-09-11;678.45;Lisbon;Portugal
+749;88;89;2023-01-22;299.99;Lagos;Nigeria
+750;30;78;2023-03-14;543.21;New Castle;England
+752;11;56;2023-11-04;432.1;Sochi;Russia
+753;25;34;2024-01-19;764.32;Lviv;Ukraine
+754;66;79;2023-02-11;199.95;Nairobi;Kenya
+756;1;1;2024-05-21;875.34;Porto;Portugal
+757;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+758;12;78;2024-02-14;489.22;Bahia;Brazil
+760;77;45;2023-10-15;124.89;Luanda;Angola
+761;15;67;2023-09-11;678.45;Lisbon;Portugal
+762;88;89;2023-01-22;299.99;Lagos;Nigeria
+763;30;78;2023-03-14;543.21;New Castle;England
+765;11;56;2023-11-04;432.1;Sochi;Russia
+766;25;34;2024-01-19;764.32;Lviv;Ukraine
+767;66;79;2023-02-11;199.95;Nairobi;Kenya
+769;1;1;2024-05-21;875.34;Porto;Portugal
+770;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+771;12;78;2024-02-14;489.22;Bahia;Brazil
+772;15;67;2023-09-11;678.45;Lisbon;Portugal
+773;88;89;2023-01-22;299.99;Lagos;Nigeria
+774;30;78;2023-03-14;543.21;New Castle;England
+778;77;45;2023-10-15;124.89;Luanda;Angola
+779;15;67;2023-09-11;678.45;Lisbon;Portugal
+780;88;89;2023-01-22;299.99;Lagos;Nigeria
+781;30;78;2023-03-14;543.21;New Castle;England
+783;11;56;2023-11-04;432.1;Sochi;Russia
+784;25;34;2024-01-19;764.32;Lviv;Ukraine
+785;66;79;2023-02-11;199.95;Nairobi;Kenya
+787;1;1;2024-05-21;875.34;Porto;Portugal
+788;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+789;12;78;2024-02-14;489.22;Bahia;Brazil
+791;77;45;2023-10-15;124.89;Luanda;Angola
+792;15;67;2023-09-11;678.45;Lisbon;Portugal
+793;88;89;2023-01-22;299.99;Lagos;Nigeria
+794;30;78;2023-03-14;543.21;New Castle;England
+796;11;56;2023-11-04;432.1;Sochi;Russia
+797;25;34;2024-01-19;764.32;Lviv;Ukraine
+798;66;79;2023-02-11;199.95;Nairobi;Kenya
+800;1;1;2024-05-21;875.34;Porto;Portugal
+801;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+802;12;78;2024-02-14;489.22;Bahia;Brazil
+803;15;67;2023-09-11;678.45;Lisbon;Portugal
+804;88;89;2023-01-22;299.99;Lagos;Nigeria
+805;30;78;2023-03-14;543.21;New Castle;England
+809;77;45;2023-10-15;124.89;Luanda;Angola
+810;15;67;2023-09-11;678.45;Lisbon;Portugal
+811;88;89;2023-01-22;299.99;Lagos;Nigeria
+812;30;78;2023-03-14;543.21;New Castle;England
+814;11;56;2023-11-04;432.1;Sochi;Russia
+815;25;34;2024-01-19;764.32;Lviv;Ukraine
+816;66;79;2023-02-11;199.95;Nairobi;Kenya
+818;1;1;2024-05-21;875.34;Porto;Portugal
+819;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+820;12;78;2024-02-14;489.22;Bahia;Brazil
+822;77;45;2023-10-15;124.89;Luanda;Angola
+823;15;67;2023-09-11;678.45;Lisbon;Portugal
+824;88;89;2023-01-22;299.99;Lagos;Nigeria
+825;30;78;2023-03-14;543.21;New Castle;England
+827;11;56;2023-11-04;432.1;Sochi;Russia
+828;25;34;2024-01-19;764.32;Lviv;Ukraine
+829;66;79;2023-02-11;199.95;Nairobi;Kenya
+831;1;1;2024-05-21;875.34;Porto;Portugal
+832;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+833;12;78;2024-02-14;489.22;Bahia;Brazil
+834;15;67;2023-09-11;678.45;Lisbon;Portugal
+835;88;89;2023-01-22;299.99;Lagos;Nigeria
+836;30;78;2023-03-14;543.21;New Castle;England
+840;77;45;2023-10-15;124.89;Luanda;Angola
+841;15;67;2023-09-11;678.45;Lisbon;Portugal
+842;88;89;2023-01-22;299.99;Lagos;Nigeria
+843;30;78;2023-03-14;543.21;New Castle;England
+845;11;56;2023-11-04;432.1;Sochi;Russia
+846;25;34;2024-01-19;764.32;Lviv;Ukraine
+847;66;79;2023-02-11;199.95;Nairobi;Kenya
+849;1;1;2024-05-21;875.34;Porto;Portugal
+850;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+851;12;78;2024-02-14;489.22;Bahia;Brazil
+853;77;45;2023-10-15;124.89;Luanda;Angola
+854;15;67;2023-09-11;678.45;Lisbon;Portugal
+855;88;89;2023-01-22;299.99;Lagos;Nigeria
+856;30;78;2023-03-14;543.21;New Castle;England
+858;11;56;2023-11-04;432.1;Sochi;Russia
+859;25;34;2024-01-19;764.32;Lviv;Ukraine
+860;66;79;2023-02-11;199.95;Nairobi;Kenya
+862;1;1;2024-05-21;875.34;Porto;Portugal
+863;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+864;12;78;2024-02-14;489.22;Bahia;Brazil
+865;15;67;2023-09-11;678.45;Lisbon;Portugal
+866;88;89;2023-01-22;299.99;Lagos;Nigeria
+867;30;78;2023-03-14;543.21;New Castle;England
+871;77;45;2023-10-15;124.89;Luanda;Angola
+872;15;67;2023-09-11;678.45;Lisbon;Portugal
+873;88;89;2023-01-22;299.99;Lagos;Nigeria
+874;30;78;2023-03-14;543.21;New Castle;England
+876;11;56;2023-11-04;432.1;Sochi;Russia
+877;25;34;2024-01-19;764.32;Lviv;Ukraine
+878;66;79;2023-02-11;199.95;Nairobi;Kenya
+880;1;1;2024-05-21;875.34;Porto;Portugal
+881;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+882;12;78;2024-02-14;489.22;Bahia;Brazil
+884;77;45;2023-10-15;124.89;Luanda;Angola
+885;15;67;2023-09-11;678.45;Lisbon;Portugal
+886;88;89;2023-01-22;299.99;Lagos;Nigeria
+887;30;78;2023-03-14;543.21;New Castle;England
+889;11;56;2023-11-04;432.1;Sochi;Russia
+890;25;34;2024-01-19;764.32;Lviv;Ukraine
+891;66;79;2023-02-11;199.95;Nairobi;Kenya
+893;1;1;2024-05-21;875.34;Porto;Portugal
+894;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+895;12;78;2024-02-14;489.22;Bahia;Brazil
+896;15;67;2023-09-11;678.45;Lisbon;Portugal
+897;88;89;2023-01-22;299.99;Lagos;Nigeria
+898;30;78;2023-03-14;543.21;New Castle;England
+902;77;45;2023-10-15;124.89;Luanda;Angola
+903;15;67;2023-09-11;678.45;Lisbon;Portugal
+904;88;89;2023-01-22;299.99;Lagos;Nigeria
+905;30;78;2023-03-14;543.21;New Castle;England
+907;11;56;2023-11-04;432.1;Sochi;Russia
+908;25;34;2024-01-19;764.32;Lviv;Ukraine
+909;66;79;2023-02-11;199.95;Nairobi;Kenya
+911;1;1;2024-05-21;875.34;Porto;Portugal
+912;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+913;12;78;2024-02-14;489.22;Bahia;Brazil
+915;77;45;2023-10-15;124.89;Luanda;Angola
+916;15;67;2023-09-11;678.45;Lisbon;Portugal
+917;88;89;2023-01-22;299.99;Lagos;Nigeria
+918;30;78;2023-03-14;543.21;New Castle;England
+920;11;56;2023-11-04;432.1;Sochi;Russia
+921;25;34;2024-01-19;764.32;Lviv;Ukraine
+922;66;79;2023-02-11;199.95;Nairobi;Kenya
+924;1;1;2024-05-21;875.34;Porto;Portugal
+925;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+926;12;78;2024-02-14;489.22;Bahia;Brazil
+927;15;67;2023-09-11;678.45;Lisbon;Portugal
+928;88;89;2023-01-22;299.99;Lagos;Nigeria
+929;30;78;2023-03-14;543.21;New Castle;England
+933;77;45;2023-10-15;124.89;Luanda;Angola
+934;15;67;2023-09-11;678.45;Lisbon;Portugal
+935;88;89;2023-01-22;299.99;Lagos;Nigeria
+936;30;78;2023-03-14;543.21;New Castle;England
+938;11;56;2023-11-04;432.1;Sochi;Russia
+939;25;34;2024-01-19;764.32;Lviv;Ukraine
+940;66;79;2023-02-11;199.95;Nairobi;Kenya
+942;1;1;2024-05-21;875.34;Porto;Portugal
+943;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+944;12;78;2024-02-14;489.22;Bahia;Brazil
+946;77;45;2023-10-15;124.89;Luanda;Angola
+947;15;67;2023-09-11;678.45;Lisbon;Portugal
+948;88;89;2023-01-22;299.99;Lagos;Nigeria
+949;30;78;2023-03-14;543.21;New Castle;England
+951;11;56;2023-11-04;432.1;Sochi;Russia
+952;25;34;2024-01-19;764.32;Lviv;Ukraine
+953;66;79;2023-02-11;199.95;Nairobi;Kenya
+955;1;1;2024-05-21;875.34;Porto;Portugal
+956;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+957;12;78;2024-02-14;489.22;Bahia;Brazil
+958;15;67;2023-09-11;678.45;Lisbon;Portugal
+959;88;89;2023-01-22;299.99;Lagos;Nigeria
+960;30;78;2023-03-14;543.21;New Castle;England
+964;77;45;2023-10-15;124.89;Luanda;Angola
+965;15;67;2023-09-11;678.45;Lisbon;Portugal
+966;88;89;2023-01-22;299.99;Lagos;Nigeria
+967;30;78;2023-03-14;543.21;New Castle;England
+969;11;56;2023-11-04;432.1;Sochi;Russia
+970;25;34;2024-01-19;764.32;Lviv;Ukraine
+971;66;79;2023-02-11;199.95;Nairobi;Kenya
+973;1;1;2024-05-21;875.34;Porto;Portugal
+974;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+975;12;78;2024-02-14;489.22;Bahia;Brazil
+977;77;45;2023-10-15;124.89;Luanda;Angola
+978;15;67;2023-09-11;678.45;Lisbon;Portugal
+979;88;89;2023-01-22;299.99;Lagos;Nigeria
+980;30;78;2023-03-14;543.21;New Castle;England
+982;11;56;2023-11-04;432.1;Sochi;Russia
+983;25;34;2024-01-19;764.32;Lviv;Ukraine
+984;66;79;2023-02-11;199.95;Nairobi;Kenya
+986;1;1;2024-05-21;875.34;Porto;Portugal
+987;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+988;12;78;2024-02-14;489.22;Bahia;Brazil
+989;15;67;2023-09-11;678.45;Lisbon;Portugal
+990;88;89;2023-01-22;299.99;Lagos;Nigeria
+991;30;78;2023-03-14;543.21;New Castle;England
+1;54;37;2023-06-07;952.34;Setubal;Portugal
+3;77;45;2023-10-15;124.89;Luanda;Angola
+4;88;89;2023-01-22;299.99;Lagos;Nigeria
+5;30;78;2023-03-14;543.21;New Castle;England
+6;2;3;2024-05-21;875.34;Nanjing;China
+7;11;56;2023-11-04;432.1;Sochi;Russia
+8;25;34;2024-01-19;764.32;Lviv;Ukraine
+9;66;79;2023-02-11;199.95;Nairobi;Kenya
+10;34;56;2024-05-21;875.34;Yanam;India
+11;1;1;2024-05-21;875.34;Porto;Portugal
+12;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+13;12;78;2024-02-14;489.22;Bahia;Brazil
+14;23;12;2023-04-21;348.67;Quebec;Canada
+15;77;45;2023-10-15;124.89;Luanda;Angola
+16;15;67;2023-09-11;678.45;Lisbon;Portugal
+17;88;89;2023-01-22;299.99;Lagos;Nigeria
+18;30;78;2023-03-14;543.21;New Castle;England
+20;11;56;2023-11-04;432.1;Sochi;Russia
+21;25;34;2024-01-19;764.32;Lviv;Ukraine
+22;66;79;2023-02-11;199.95;Nairobi;Kenya
+24;1;1;2024-05-21;875.34;Porto;Portugal
+25;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+26;12;78;2024-02-14;489.22;Bahia;Brazil
+27;15;67;2023-09-11;678.45;Lisbon;Portugal
+28;88;89;2023-01-22;299.99;Nice;France
+29;30;78;2023-03-14;543.21;New Castle;England
+33;77;45;2023-10-15;124.89;Luanda;Angola
+34;15;67;2023-09-11;678.45;Lisbon;Portugal
+35;88;89;2023-01-22;299.99;Lagos;Nigeria
+36;30;78;2023-03-14;543.21;New Castle;England
+38;11;56;2023-11-04;432.1;Sochi;Russia
+39;25;34;2024-01-19;764.32;Lviv;Ukraine
+40;66;79;2023-02-11;199.95;Nairobi;Kenya
+42;1;1;2024-05-21;875.34;Porto;Portugal
+43;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+44;12;78;2024-02-14;489.22;Bahia;Brazil
+46;77;45;2023-10-15;124.89;Luanda;Angola
+47;15;67;2023-09-11;678.45;Lisbon;Portugal
+48;88;89;2023-01-22;299.99;Lagos;Nigeria
+49;30;78;2023-03-14;543.21;New Castle;England
+51;11;56;2023-11-04;432.1;Sochi;Russia
+52;25;34;2024-01-19;764.32;Lviv;Ukraine
+53;66;79;2023-02-11;199.95;Nairobi;Kenya
+55;1;1;2024-05-21;875.34;Porto;Portugal
+56;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+57;12;78;2024-02-14;489.22;Bahia;Brazil
+58;34;56;2024-05-21;875.34;Yanam;India
+59;15;67;2023-09-11;678.45;Lisbon;Portugal
+60;88;89;2023-01-22;299.99;Lagos;Nigeria
+61;30;78;2023-03-14;543.21;New Castle;England
+65;77;45;2023-10-15;124.89;Luanda;Angola
+66;15;67;2023-09-11;678.45;Lisbon;Portugal
+67;88;89;2023-01-22;299.99;Lagos;Nigeria
+68;30;78;2023-03-14;543.21;New Castle;England
+70;11;56;2023-11-04;432.1;Sochi;Russia
+71;25;34;2024-01-19;764.32;Lviv;Ukraine
+72;66;79;2023-02-11;199.95;Nairobi;Kenya
+74;1;1;2024-05-21;875.34;Porto;Portugal
+75;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+76;12;78;2024-02-14;489.22;Bahia;Brazil
+78;77;45;2023-10-15;124.89;Luanda;Angola
+79;15;67;2023-09-11;678.45;Lisbon;Portugal
+80;88;89;2023-01-22;299.99;Lagos;Nigeria
+81;30;78;2023-03-14;543.21;New Castle;England
+83;11;56;2023-11-04;432.1;Sochi;Russia
+84;25;34;2024-01-19;764.32;Lviv;Ukraine
+85;66;79;2023-02-11;199.95;Nairobi;Kenya
+87;1;1;2024-05-21;875.34;Porto;Portugal
+88;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+89;12;78;2024-02-14;489.22;Bahia;Brazil
+90;15;67;2023-09-11;678.45;Lisbon;Portugal
+91;88;89;2023-01-22;299.99;Lagos;Nigeria
+92;30;78;2023-03-14;543.21;New Castle;England
+96;77;45;2023-10-15;124.89;Luanda;Angola
+97;15;67;2023-09-11;678.45;Lisbon;Portugal
+98;88;89;2023-01-22;299.99;Lagos;Nigeria
+99;30;78;2023-03-14;543.21;New Castle;England
+101;11;56;2023-11-04;432.1;Sochi;Russia
+102;25;34;2024-01-19;764.32;Lviv;Ukraine
+103;66;79;2023-02-11;199.95;Nairobi;Kenya
+105;1;1;2024-05-21;875.34;Porto;Portugal
+106;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+107;12;78;2024-02-14;489.22;Bahia;Brazil
+109;77;45;2023-10-15;124.89;Luanda;Angola
+110;15;67;2023-09-11;678.45;Lisbon;Portugal
+111;88;89;2023-01-22;299.99;Lagos;Nigeria
+112;30;78;2023-03-14;543.21;New Castle;England
+114;11;56;2023-11-04;432.1;Sochi;Russia
+115;25;34;2024-01-19;764.32;Lviv;Ukraine
+116;66;79;2023-02-11;199.95;Nairobi;Kenya
+118;1;1;2024-05-21;875.34;Porto;Portugal
+119;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+120;12;78;2024-02-14;489.22;Bahia;Brazil
+121;15;67;2023-09-11;678.45;Lisbon;Portugal
+122;88;89;2023-01-22;299.99;Lagos;Nigeria
+123;30;78;2023-03-14;543.21;New Castle;England
+127;77;45;2023-10-15;124.89;Luanda;Angola
+128;15;67;2023-09-11;678.45;Lisbon;Portugal
+129;88;89;2023-01-22;299.99;Lagos;Nigeria
+130;30;78;2023-03-14;543.21;New Castle;England
+132;11;56;2023-11-04;432.1;Sochi;Russia
+133;25;34;2024-01-19;764.32;Lviv;Ukraine
+134;66;79;2023-02-11;199.95;Nairobi;Kenya
+136;1;1;2024-05-21;875.34;Porto;Portugal
+137;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+138;12;78;2024-02-14;489.22;Bahia;Brazil
+140;77;45;2023-10-15;124.89;Luanda;Angola
+141;15;67;2023-09-11;678.45;Lisbon;Portugal
+142;88;89;2023-01-22;299.99;Lagos;Nigeria
+143;30;78;2023-03-14;543.21;New Castle;England
+145;11;56;2023-11-04;432.1;Sochi;Russia
+146;25;34;2024-01-19;764.32;Lviv;Ukraine
+147;66;79;2023-02-11;199.95;Nairobi;Kenya
+149;1;1;2024-05-21;875.34;Porto;Portugal
+150;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+151;12;78;2024-02-14;489.22;Bahia;Brazil
+152;15;67;2023-09-11;678.45;Lisbon;Portugal
+153;88;89;2023-01-22;299.99;Lagos;Nigeria
+154;30;78;2023-03-14;543.21;New Castle;England
+158;77;45;2023-10-15;124.89;Luanda;Angola
+159;15;67;2023-09-11;678.45;Lisbon;Portugal
+160;88;89;2023-01-22;299.99;Lagos;Nigeria
+161;30;78;2023-03-14;543.21;New Castle;England
+163;11;56;2023-11-04;432.1;Sochi;Russia
+164;25;34;2024-01-19;764.32;Lviv;Ukraine
+165;66;79;2023-02-11;199.95;Nairobi;Kenya
+167;1;1;2024-05-21;875.34;Porto;Portugal
+168;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+169;12;78;2024-02-14;489.22;Bahia;Brazil
+171;77;45;2023-10-15;124.89;Luanda;Angola
+172;15;67;2023-09-11;678.45;Lisbon;Portugal
+173;88;89;2023-01-22;299.99;Lagos;Nigeria
+174;30;78;2023-03-14;543.21;New Castle;England
+176;11;56;2023-11-04;432.1;Sochi;Russia
+177;25;34;2024-01-19;764.32;Lviv;Ukraine
+178;66;79;2023-02-11;199.95;Nairobi;Kenya
+180;1;1;2024-05-21;875.34;Porto;Portugal
+181;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+182;12;78;2024-02-14;489.22;Bahia;Brazil
+183;15;67;2023-09-11;678.45;Lisbon;Portugal
+184;88;89;2023-01-22;299.99;Lagos;Nigeria
+185;30;78;2023-03-14;543.21;New Castle;England
+189;77;45;2023-10-15;124.89;Luanda;Angola
+190;15;67;2023-09-11;678.45;Lisbon;Portugal
+191;88;89;2023-01-22;299.99;Lagos;Nigeria
+192;30;78;2023-03-14;543.21;New Castle;England
+194;11;56;2023-11-04;432.1;Sochi;Russia
+195;25;34;2024-01-19;764.32;Lviv;Ukraine
+196;66;79;2023-02-11;199.95;Nairobi;Kenya
+198;1;1;2024-05-21;875.34;Porto;Portugal
+199;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+200;12;78;2024-02-14;489.22;Bahia;Brazil
+202;77;45;2023-10-15;124.89;Luanda;Angola
+203;15;67;2023-09-11;678.45;Lisbon;Portugal
+204;88;89;2023-01-22;299.99;Lagos;Nigeria
+205;30;78;2023-03-14;543.21;New Castle;England
+207;11;56;2023-11-04;432.1;Sochi;Russia
+208;25;34;2024-01-19;764.32;Lviv;Ukraine
+209;66;79;2023-02-11;199.95;Nairobi;Kenya
+211;1;1;2024-05-21;875.34;Porto;Portugal
+212;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+213;12;78;2024-02-14;489.22;Bahia;Brazil
+214;15;67;2023-09-11;678.45;Lisbon;Portugal
+215;88;89;2023-01-22;299.99;Lagos;Nigeria
+216;30;78;2023-03-14;543.21;New Castle;England
+220;77;45;2023-10-15;124.89;Luanda;Angola
+221;15;67;2023-09-11;678.45;Lisbon;Portugal
+222;88;89;2023-01-22;299.99;Lagos;Nigeria
+223;30;78;2023-03-14;543.21;New Castle;England
+225;11;56;2023-11-04;432.1;Sochi;Russia
+226;25;34;2024-01-19;764.32;Lviv;Ukraine
+227;66;79;2023-02-11;199.95;Nairobi;Kenya
+229;1;1;2024-05-21;875.34;Porto;Portugal
+230;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+231;12;78;2024-02-14;489.22;Bahia;Brazil
+233;77;45;2023-10-15;124.89;Luanda;Angola
+234;15;67;2023-09-11;678.45;Lisbon;Portugal
+235;88;89;2023-01-22;299.99;Lagos;Nigeria
+236;30;78;2023-03-14;543.21;New Castle;England
+238;11;56;2023-11-04;432.1;Sochi;Russia
+239;25;34;2024-01-19;764.32;Lviv;Ukraine
+240;66;79;2023-02-11;199.95;Nairobi;Kenya
+242;1;1;2024-05-21;875.34;Porto;Portugal
+243;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+244;12;78;2024-02-14;489.22;Bahia;Brazil
+245;15;67;2023-09-11;678.45;Lisbon;Portugal
+246;88;89;2023-01-22;299.99;Lagos;Nigeria
+247;30;78;2023-03-14;543.21;New Castle;England
+251;77;45;2023-10-15;124.89;Luanda;Angola
+252;15;67;2023-09-11;678.45;Lisbon;Portugal
+253;88;89;2023-01-22;299.99;Lagos;Nigeria
+254;30;78;2023-03-14;543.21;New Castle;England
+256;11;56;2023-11-04;432.1;Sochi;Russia
+257;25;34;2024-01-19;764.32;Lviv;Ukraine
+258;66;79;2023-02-11;199.95;Nairobi;Kenya
+260;1;1;2024-05-21;875.34;Porto;Portugal
+261;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+262;12;78;2024-02-14;489.22;Bahia;Brazil
+264;77;45;2023-10-15;124.89;Luanda;Angola
+265;15;67;2023-09-11;678.45;Lisbon;Portugal
+266;88;89;2023-01-22;299.99;Lagos;Nigeria
+267;30;78;2023-03-14;543.21;New Castle;England
+269;11;56;2023-11-04;432.1;Sochi;Russia
+270;25;34;2024-01-19;764.32;Lviv;Ukraine
+271;66;79;2023-02-11;199.95;Nairobi;Kenya
+273;1;1;2024-05-21;875.34;Porto;Portugal
+274;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+275;12;78;2024-02-14;489.22;Bahia;Brazil
+276;15;67;2023-09-11;678.45;Lisbon;Portugal
+277;88;89;2023-01-22;299.99;Lagos;Nigeria
+278;30;78;2023-03-14;543.21;New Castle;England
+282;77;45;2023-10-15;124.89;Luanda;Angola
+283;15;67;2023-09-11;678.45;Lisbon;Portugal
+284;88;89;2023-01-22;299.99;Lagos;Nigeria
+285;30;78;2023-03-14;543.21;New Castle;England
+287;11;56;2023-11-04;432.1;Sochi;Russia
+288;25;34;2024-01-19;764.32;Lviv;Ukraine
+289;66;79;2023-02-11;199.95;Nairobi;Kenya
+291;1;1;2024-05-21;875.34;Porto;Portugal
+292;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+293;12;78;2024-02-14;489.22;Bahia;Brazil
+295;77;45;2023-10-15;124.89;Luanda;Angola
+296;15;67;2023-09-11;678.45;Lisbon;Portugal
+297;88;89;2023-01-22;299.99;Lagos;Nigeria
+298;30;78;2023-03-14;543.21;New Castle;England
+300;11;56;2023-11-04;432.1;Sochi;Russia
+301;25;34;2024-01-19;764.32;Lviv;Ukraine
+302;66;79;2023-02-11;199.95;Nairobi;Kenya
+304;1;1;2024-05-21;875.34;Porto;Portugal
+305;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+306;12;78;2024-02-14;489.22;Bahia;Brazil
+307;15;67;2023-09-11;678.45;Lisbon;Portugal
+308;88;89;2023-01-22;299.99;Lagos;Nigeria
+309;30;78;2023-03-14;543.21;New Castle;England
+313;77;45;2023-10-15;124.89;Luanda;Angola
+314;15;67;2023-09-11;678.45;Lisbon;Portugal
+315;88;89;2023-01-22;299.99;Lagos;Nigeria
+316;30;78;2023-03-14;543.21;New Castle;England
+318;11;56;2023-11-04;432.1;Sochi;Russia
+319;25;34;2024-01-19;764.32;Lviv;Ukraine
+320;66;79;2023-02-11;199.95;Nairobi;Kenya
+322;1;1;2024-05-21;875.34;Porto;Portugal
+323;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+324;12;78;2024-02-14;489.22;Bahia;Brazil
+326;77;45;2023-10-15;124.89;Luanda;Angola
+327;15;67;2023-09-11;678.45;Lisbon;Portugal
+328;88;89;2023-01-22;299.99;Lagos;Nigeria
+329;30;78;2023-03-14;543.21;New Castle;England
+331;11;56;2023-11-04;432.1;Sochi;Russia
+332;25;34;2024-01-19;764.32;Lviv;Ukraine
+333;66;79;2023-02-11;199.95;Nairobi;Kenya
+335;1;1;2024-05-21;875.34;Porto;Portugal
+336;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+337;12;78;2024-02-14;489.22;Bahia;Brazil
+338;15;67;2023-09-11;678.45;Lisbon;Portugal
+339;88;89;2023-01-22;299.99;Lagos;Nigeria
+340;30;78;2023-03-14;543.21;New Castle;England
+344;77;45;2023-10-15;124.89;Luanda;Angola
+345;15;67;2023-09-11;678.45;Lisbon;Portugal
+346;88;89;2023-01-22;299.99;Lagos;Nigeria
+347;30;78;2023-03-14;543.21;New Castle;England
+349;11;56;2023-11-04;432.1;Sochi;Russia
+350;25;34;2024-01-19;764.32;Lviv;Ukraine
+351;66;79;2023-02-11;199.95;Nairobi;Kenya
+353;1;1;2024-05-21;875.34;Porto;Portugal
+354;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+355;12;78;2024-02-14;489.22;Bahia;Brazil
+357;77;45;2023-10-15;124.89;Luanda;Angola
+358;15;67;2023-09-11;678.45;Lisbon;Portugal
+359;88;89;2023-01-22;299.99;Lagos;Nigeria
+360;30;78;2023-03-14;543.21;New Castle;England
+362;11;56;2023-11-04;432.1;Sochi;Russia
+363;25;34;2024-01-19;764.32;Lviv;Ukraine
+364;66;79;2023-02-11;199.95;Nairobi;Kenya
+366;1;1;2024-05-21;875.34;Porto;Portugal
+367;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+368;12;78;2024-02-14;489.22;Bahia;Brazil
+369;15;67;2023-09-11;678.45;Lisbon;Portugal
+370;88;89;2023-01-22;299.99;Lagos;Nigeria
+371;30;78;2023-03-14;543.21;New Castle;England
+375;77;45;2023-10-15;124.89;Luanda;Angola
+376;15;67;2023-09-11;678.45;Lisbon;Portugal
+377;88;89;2023-01-22;299.99;Lagos;Nigeria
+378;30;78;2023-03-14;543.21;New Castle;England
+380;11;56;2023-11-04;432.1;Sochi;Russia
+381;25;34;2024-01-19;764.32;Lviv;Ukraine
+382;66;79;2023-02-11;199.95;Nairobi;Kenya
+384;1;1;2024-05-21;875.34;Porto;Portugal
+385;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+386;12;78;2024-02-14;489.22;Bahia;Brazil
+388;77;45;2023-10-15;124.89;Luanda;Angola
+389;15;67;2023-09-11;678.45;Lisbon;Portugal
+390;88;89;2023-01-22;299.99;Lagos;Nigeria
+391;30;78;2023-03-14;543.21;New Castle;England
+393;11;56;2023-11-04;432.1;Sochi;Russia
+394;25;34;2024-01-19;764.32;Lviv;Ukraine
+395;66;79;2023-02-11;199.95;Nairobi;Kenya
+397;1;1;2024-05-21;875.34;Porto;Portugal
+398;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+399;12;78;2024-02-14;489.22;Bahia;Brazil
+400;15;67;2023-09-11;678.45;Lisbon;Portugal
+401;88;89;2023-01-22;299.99;Lagos;Nigeria
+402;30;78;2023-03-14;543.21;New Castle;England
+406;77;45;2023-10-15;124.89;Luanda;Angola
+407;15;67;2023-09-11;678.45;Lisbon;Portugal
+408;88;89;2023-01-22;299.99;Lagos;Nigeria
+409;30;78;2023-03-14;543.21;New Castle;England
+411;11;56;2023-11-04;432.1;Sochi;Russia
+412;25;34;2024-01-19;764.32;Lviv;Ukraine
+413;66;79;2023-02-11;199.95;Nairobi;Kenya
+415;1;1;2024-05-21;875.34;Porto;Portugal
+416;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+417;12;78;2024-02-14;489.22;Bahia;Brazil
+419;77;45;2023-10-15;124.89;Luanda;Angola
+420;15;67;2023-09-11;678.45;Lisbon;Portugal
+421;88;89;2023-01-22;299.99;Lagos;Nigeria
+422;30;78;2023-03-14;543.21;New Castle;England
+424;11;56;2023-11-04;432.1;Sochi;Russia
+425;25;34;2024-01-19;764.32;Lviv;Ukraine
+426;66;79;2023-02-11;199.95;Nairobi;Kenya
+428;1;1;2024-05-21;875.34;Porto;Portugal
+429;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+430;12;78;2024-02-14;489.22;Bahia;Brazil
+431;15;67;2023-09-11;678.45;Lisbon;Portugal
+432;88;89;2023-01-22;299.99;Lagos;Nigeria
+433;30;78;2023-03-14;543.21;New Castle;England
+437;77;45;2023-10-15;124.89;Luanda;Angola
+438;15;67;2023-09-11;678.45;Lisbon;Portugal
+439;88;89;2023-01-22;299.99;Lagos;Nigeria
+440;30;78;2023-03-14;543.21;New Castle;England
+442;11;56;2023-11-04;432.1;Sochi;Russia
+443;25;34;2024-01-19;764.32;Lviv;Ukraine
+444;66;79;2023-02-11;199.95;Nairobi;Kenya
+446;1;1;2024-05-21;875.34;Porto;Portugal
+447;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+448;12;78;2024-02-14;489.22;Bahia;Brazil
+450;77;45;2023-10-15;124.89;Luanda;Angola
+451;15;67;2023-09-11;678.45;Lisbon;Portugal
+452;88;89;2023-01-22;299.99;Lagos;Nigeria
+453;30;78;2023-03-14;543.21;New Castle;England
+455;11;56;2023-11-04;432.1;Sochi;Russia
+456;25;34;2024-01-19;764.32;Lviv;Ukraine
+457;66;79;2023-02-11;199.95;Nairobi;Kenya
+459;1;1;2024-05-21;875.34;Porto;Portugal
+460;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+461;12;78;2024-02-14;489.22;Bahia;Brazil
+462;15;67;2023-09-11;678.45;Lisbon;Portugal
+463;88;89;2023-01-22;299.99;Lagos;Nigeria
+464;30;78;2023-03-14;543.21;New Castle;England
+468;77;45;2023-10-15;124.89;Luanda;Angola
+469;15;67;2023-09-11;678.45;Lisbon;Portugal
+470;88;89;2023-01-22;299.99;Lagos;Nigeria
+471;30;78;2023-03-14;543.21;New Castle;England
+473;11;56;2023-11-04;432.1;Sochi;Russia
+474;25;34;2024-01-19;764.32;Lviv;Ukraine
+475;66;79;2023-02-11;199.95;Nairobi;Kenya
+477;1;1;2024-05-21;875.34;Porto;Portugal
+478;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+479;12;78;2024-02-14;489.22;Bahia;Brazil
+481;77;45;2023-10-15;124.89;Luanda;Angola
+482;15;67;2023-09-11;678.45;Lisbon;Portugal
+483;88;89;2023-01-22;299.99;Lagos;Nigeria
+484;30;78;2023-03-14;543.21;New Castle;England
+486;11;56;2023-11-04;432.1;Sochi;Russia
+487;25;34;2024-01-19;764.32;Lviv;Ukraine
+488;66;79;2023-02-11;199.95;Nairobi;Kenya
+490;1;1;2024-05-21;875.34;Porto;Portugal
+491;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+492;12;78;2024-02-14;489.22;Bahia;Brazil
+493;15;67;2023-09-11;678.45;Lisbon;Portugal
+494;88;89;2023-01-22;299.99;Lagos;Nigeria
+495;30;78;2023-03-14;543.21;New Castle;England
+499;77;45;2023-10-15;124.89;Luanda;Angola
+500;15;67;2023-09-11;678.45;Lisbon;Portugal
+501;88;89;2023-01-22;299.99;Lagos;Nigeria
+502;30;78;2023-03-14;543.21;New Castle;England
+504;11;56;2023-11-04;432.1;Sochi;Russia
+505;25;34;2024-01-19;764.32;Lviv;Ukraine
+506;66;79;2023-02-11;199.95;Nairobi;Kenya
+508;1;1;2024-05-21;875.34;Porto;Portugal
+509;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+510;12;78;2024-02-14;489.22;Bahia;Brazil
+512;77;45;2023-10-15;124.89;Luanda;Angola
+513;15;67;2023-09-11;678.45;Lisbon;Portugal
+514;88;89;2023-01-22;299.99;Lagos;Nigeria
+515;30;78;2023-03-14;543.21;New Castle;England
+517;11;56;2023-11-04;432.1;Sochi;Russia
+518;25;34;2024-01-19;764.32;Lviv;Ukraine
+519;66;79;2023-02-11;199.95;Nairobi;Kenya
+521;1;1;2024-05-21;875.34;Porto;Portugal
+522;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+523;12;78;2024-02-14;489.22;Bahia;Brazil
+524;15;67;2023-09-11;678.45;Lisbon;Portugal
+525;88;89;2023-01-22;299.99;Lagos;Nigeria
+526;30;78;2023-03-14;543.21;New Castle;England
+530;77;45;2023-10-15;124.89;Luanda;Angola
+531;15;67;2023-09-11;678.45;Lisbon;Portugal
+532;88;89;2023-01-22;299.99;Lagos;Nigeria
+533;30;78;2023-03-14;543.21;New Castle;England
+535;11;56;2023-11-04;432.1;Sochi;Russia
+536;25;34;2024-01-19;764.32;Lviv;Ukraine
+537;66;79;2023-02-11;199.95;Nairobi;Kenya
+539;1;1;2024-05-21;875.34;Porto;Portugal
+540;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+541;12;78;2024-02-14;489.22;Bahia;Brazil
+543;77;45;2023-10-15;124.89;Luanda;Angola
+544;15;67;2023-09-11;678.45;Lisbon;Portugal
+545;88;89;2023-01-22;299.99;Lagos;Nigeria
+546;30;78;2023-03-14;543.21;New Castle;England
+548;11;56;2023-11-04;432.1;Sochi;Russia
+549;25;34;2024-01-19;764.32;Lviv;Ukraine
+550;66;79;2023-02-11;199.95;Nairobi;Kenya
+552;1;1;2024-05-21;875.34;Porto;Portugal
+553;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+554;12;78;2024-02-14;489.22;Bahia;Brazil
+555;15;67;2023-09-11;678.45;Lisbon;Portugal
+556;88;89;2023-01-22;299.99;Lagos;Nigeria
+557;30;78;2023-03-14;543.21;New Castle;England
+561;77;45;2023-10-15;124.89;Luanda;Angola
+562;15;67;2023-09-11;678.45;Lisbon;Portugal
+563;88;89;2023-01-22;299.99;Lagos;Nigeria
+564;30;78;2023-03-14;543.21;New Castle;England
+566;11;56;2023-11-04;432.1;Sochi;Russia
+567;25;34;2024-01-19;764.32;Lviv;Ukraine
+568;66;79;2023-02-11;199.95;Nairobi;Kenya
+570;1;1;2024-05-21;875.34;Porto;Portugal
+571;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+572;12;78;2024-02-14;489.22;Bahia;Brazil
+574;77;45;2023-10-15;124.89;Luanda;Angola
+575;15;67;2023-09-11;678.45;Lisbon;Portugal
+576;88;89;2023-01-22;299.99;Lagos;Nigeria
+577;30;78;2023-03-14;543.21;New Castle;England
+579;11;56;2023-11-04;432.1;Sochi;Russia
+580;25;34;2024-01-19;764.32;Lviv;Ukraine
+581;66;79;2023-02-11;199.95;Nairobi;Kenya
+583;1;1;2024-05-21;875.34;Porto;Portugal
+584;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+585;12;78;2024-02-14;489.22;Bahia;Brazil
+586;15;67;2023-09-11;678.45;Lisbon;Portugal
+587;88;89;2023-01-22;299.99;Lagos;Nigeria
+588;30;78;2023-03-14;543.21;New Castle;England
+592;77;45;2023-10-15;124.89;Luanda;Angola
+593;15;67;2023-09-11;678.45;Lisbon;Portugal
+594;88;89;2023-01-22;299.99;Lagos;Nigeria
+595;30;78;2023-03-14;543.21;New Castle;England
+597;11;56;2023-11-04;432.1;Sochi;Russia
+598;25;34;2024-01-19;764.32;Lviv;Ukraine
+599;66;79;2023-02-11;199.95;Nairobi;Kenya
+601;1;1;2024-05-21;875.34;Porto;Portugal
+602;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+603;12;78;2024-02-14;489.22;Bahia;Brazil
+605;77;45;2023-10-15;124.89;Luanda;Angola
+606;15;67;2023-09-11;678.45;Lisbon;Portugal
+607;88;89;2023-01-22;299.99;Lagos;Nigeria
+608;30;78;2023-03-14;543.21;New Castle;England
+610;11;56;2023-11-04;432.1;Sochi;Russia
+611;25;34;2024-01-19;764.32;Lviv;Ukraine
+612;66;79;2023-02-11;199.95;Nairobi;Kenya
+614;1;1;2024-05-21;875.34;Porto;Portugal
+615;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+616;12;78;2024-02-14;489.22;Bahia;Brazil
+617;15;67;2023-09-11;678.45;Lisbon;Portugal
+618;88;89;2023-01-22;299.99;Lagos;Nigeria
+619;30;78;2023-03-14;543.21;New Castle;England
+623;77;45;2023-10-15;124.89;Luanda;Angola
+624;15;67;2023-09-11;678.45;Lisbon;Portugal
+625;88;89;2023-01-22;299.99;Lagos;Nigeria
+626;30;78;2023-03-14;543.21;New Castle;England
+628;11;56;2023-11-04;432.1;Sochi;Russia
+629;25;34;2024-01-19;764.32;Lviv;Ukraine
+630;66;79;2023-02-11;199.95;Nairobi;Kenya
+632;1;1;2024-05-21;875.34;Porto;Portugal
+633;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+634;12;78;2024-02-14;489.22;Bahia;Brazil
+636;77;45;2023-10-15;124.89;Luanda;Angola
+637;15;67;2023-09-11;678.45;Lisbon;Portugal
+638;88;89;2023-01-22;299.99;Lagos;Nigeria
+639;30;78;2023-03-14;543.21;New Castle;England
+641;11;56;2023-11-04;432.1;Sochi;Russia
+642;25;34;2024-01-19;764.32;Lviv;Ukraine
+643;66;79;2023-02-11;199.95;Nairobi;Kenya
+645;1;1;2024-05-21;875.34;Porto;Portugal
+646;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+647;12;78;2024-02-14;489.22;Bahia;Brazil
+648;15;67;2023-09-11;678.45;Lisbon;Portugal
+649;88;89;2023-01-22;299.99;Lagos;Nigeria
+650;30;78;2023-03-14;543.21;New Castle;England
+654;77;45;2023-10-15;124.89;Luanda;Angola
+655;15;67;2023-09-11;678.45;Lisbon;Portugal
+656;88;89;2023-01-22;299.99;Lagos;Nigeria
+657;30;78;2023-03-14;543.21;New Castle;England
+659;11;56;2023-11-04;432.1;Sochi;Russia
+660;25;34;2024-01-19;764.32;Lviv;Ukraine
+661;66;79;2023-02-11;199.95;Nairobi;Kenya
+663;1;1;2024-05-21;875.34;Porto;Portugal
+664;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+665;12;78;2024-02-14;489.22;Bahia;Brazil
+667;77;45;2023-10-15;124.89;Luanda;Angola
+668;15;67;2023-09-11;678.45;Lisbon;Portugal
+669;88;89;2023-01-22;299.99;Lagos;Nigeria
+670;30;78;2023-03-14;543.21;New Castle;England
+672;11;56;2023-11-04;432.1;Sochi;Russia
+673;25;34;2024-01-19;764.32;Lviv;Ukraine
+674;66;79;2023-02-11;199.95;Nairobi;Kenya
+676;1;1;2024-05-21;875.34;Porto;Portugal
+677;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+678;12;78;2024-02-14;489.22;Bahia;Brazil
+679;15;67;2023-09-11;678.45;Lisbon;Portugal
+680;88;89;2023-01-22;299.99;Lagos;Nigeria
+681;30;78;2023-03-14;543.21;New Castle;England
+685;77;45;2023-10-15;124.89;Luanda;Angola
+686;15;67;2023-09-11;678.45;Lisbon;Portugal
+687;88;89;2023-01-22;299.99;Lagos;Nigeria
+688;30;78;2023-03-14;543.21;New Castle;England
+690;11;56;2023-11-04;432.1;Sochi;Russia
+691;25;34;2024-01-19;764.32;Lviv;Ukraine
+692;66;79;2023-02-11;199.95;Nairobi;Kenya
+694;1;1;2024-05-21;875.34;Porto;Portugal
+695;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+696;12;78;2024-02-14;489.22;Bahia;Brazil
+698;77;45;2023-10-15;124.89;Luanda;Angola
+699;15;67;2023-09-11;678.45;Lisbon;Portugal
+700;88;89;2023-01-22;299.99;Lagos;Nigeria
+701;30;78;2023-03-14;543.21;New Castle;England
+703;11;56;2023-11-04;432.1;Sochi;Russia
+704;25;34;2024-01-19;764.32;Lviv;Ukraine
+705;66;79;2023-02-11;199.95;Nairobi;Kenya
+707;1;1;2024-05-21;875.34;Porto;Portugal
+708;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+709;12;78;2024-02-14;489.22;Bahia;Brazil
+710;15;67;2023-09-11;678.45;Lisbon;Portugal
+711;88;89;2023-01-22;299.99;Lagos;Nigeria
+712;30;78;2023-03-14;543.21;New Castle;England
+716;77;45;2023-10-15;124.89;Luanda;Angola
+717;15;67;2023-09-11;678.45;Lisbon;Portugal
+718;88;89;2023-01-22;299.99;Lagos;Nigeria
+719;30;78;2023-03-14;543.21;New Castle;England
+721;11;56;2023-11-04;432.1;Sochi;Russia
+722;25;34;2024-01-19;764.32;Lviv;Ukraine
+723;66;79;2023-02-11;199.95;Nairobi;Kenya
+725;1;1;2024-05-21;875.34;Porto;Portugal
+726;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+727;12;78;2024-02-14;489.22;Bahia;Brazil
+729;77;45;2023-10-15;124.89;Luanda;Angola
+730;15;67;2023-09-11;678.45;Lisbon;Portugal
+731;88;89;2023-01-22;299.99;Lagos;Nigeria
+732;30;78;2023-03-14;543.21;New Castle;England
+734;11;56;2023-11-04;432.1;Sochi;Russia
+735;25;34;2024-01-19;764.32;Lviv;Ukraine
+736;66;79;2023-02-11;199.95;Nairobi;Kenya
+738;1;1;2024-05-21;875.34;Porto;Portugal
+739;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+740;12;78;2024-02-14;489.22;Bahia;Brazil
+741;15;67;2023-09-11;678.45;Lisbon;Portugal
+742;88;89;2023-01-22;299.99;Lagos;Nigeria
+743;30;78;2023-03-14;543.21;New Castle;England
+747;77;45;2023-10-15;124.89;Luanda;Angola
+748;15;67;2023-09-11;678.45;Lisbon;Portugal
+749;88;89;2023-01-22;299.99;Lagos;Nigeria
+750;30;78;2023-03-14;543.21;New Castle;England
+752;11;56;2023-11-04;432.1;Sochi;Russia
+753;25;34;2024-01-19;764.32;Lviv;Ukraine
+754;66;79;2023-02-11;199.95;Nairobi;Kenya
+756;1;1;2024-05-21;875.34;Porto;Portugal
+757;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+758;12;78;2024-02-14;489.22;Bahia;Brazil
+760;77;45;2023-10-15;124.89;Luanda;Angola
+761;15;67;2023-09-11;678.45;Lisbon;Portugal
+762;88;89;2023-01-22;299.99;Lagos;Nigeria
+763;30;78;2023-03-14;543.21;New Castle;England
+765;11;56;2023-11-04;432.1;Sochi;Russia
+766;25;34;2024-01-19;764.32;Lviv;Ukraine
+767;66;79;2023-02-11;199.95;Nairobi;Kenya
+769;1;1;2024-05-21;875.34;Porto;Portugal
+770;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+771;12;78;2024-02-14;489.22;Bahia;Brazil
+772;15;67;2023-09-11;678.45;Lisbon;Portugal
+773;88;89;2023-01-22;299.99;Lagos;Nigeria
+774;30;78;2023-03-14;543.21;New Castle;England
+778;77;45;2023-10-15;124.89;Luanda;Angola
+779;15;67;2023-09-11;678.45;Lisbon;Portugal
+780;88;89;2023-01-22;299.99;Lagos;Nigeria
+781;30;78;2023-03-14;543.21;New Castle;England
+783;11;56;2023-11-04;432.1;Sochi;Russia
+784;25;34;2024-01-19;764.32;Lviv;Ukraine
+785;66;79;2023-02-11;199.95;Nairobi;Kenya
+787;1;1;2024-05-21;875.34;Porto;Portugal
+788;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+789;12;78;2024-02-14;489.22;Bahia;Brazil
+791;77;45;2023-10-15;124.89;Luanda;Angola
+792;15;67;2023-09-11;678.45;Lisbon;Portugal
+793;88;89;2023-01-22;299.99;Lagos;Nigeria
+794;30;78;2023-03-14;543.21;New Castle;England
+796;11;56;2023-11-04;432.1;Sochi;Russia
+797;25;34;2024-01-19;764.32;Lviv;Ukraine
+798;66;79;2023-02-11;199.95;Nairobi;Kenya
+800;1;1;2024-05-21;875.34;Porto;Portugal
+801;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+802;12;78;2024-02-14;489.22;Bahia;Brazil
+803;15;67;2023-09-11;678.45;Lisbon;Portugal
+804;88;89;2023-01-22;299.99;Lagos;Nigeria
+805;30;78;2023-03-14;543.21;New Castle;England
+809;77;45;2023-10-15;124.89;Luanda;Angola
+810;15;67;2023-09-11;678.45;Lisbon;Portugal
+811;88;89;2023-01-22;299.99;Lagos;Nigeria
+812;30;78;2023-03-14;543.21;New Castle;England
+814;11;56;2023-11-04;432.1;Sochi;Russia
+815;25;34;2024-01-19;764.32;Lviv;Ukraine
+816;66;79;2023-02-11;199.95;Nairobi;Kenya
+818;1;1;2024-05-21;875.34;Porto;Portugal
+819;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+820;12;78;2024-02-14;489.22;Bahia;Brazil
+822;77;45;2023-10-15;124.89;Luanda;Angola
+823;15;67;2023-09-11;678.45;Lisbon;Portugal
+824;88;89;2023-01-22;299.99;Lagos;Nigeria
+825;30;78;2023-03-14;543.21;New Castle;England
+827;11;56;2023-11-04;432.1;Sochi;Russia
+828;25;34;2024-01-19;764.32;Lviv;Ukraine
+829;66;79;2023-02-11;199.95;Nairobi;Kenya
+831;1;1;2024-05-21;875.34;Porto;Portugal
+832;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+833;12;78;2024-02-14;489.22;Bahia;Brazil
+834;15;67;2023-09-11;678.45;Lisbon;Portugal
+835;88;89;2023-01-22;299.99;Lagos;Nigeria
+836;30;78;2023-03-14;543.21;New Castle;England
+840;77;45;2023-10-15;124.89;Luanda;Angola
+841;15;67;2023-09-11;678.45;Lisbon;Portugal
+842;88;89;2023-01-22;299.99;Lagos;Nigeria
+843;30;78;2023-03-14;543.21;New Castle;England
+845;11;56;2023-11-04;432.1;Sochi;Russia
+846;25;34;2024-01-19;764.32;Lviv;Ukraine
+847;66;79;2023-02-11;199.95;Nairobi;Kenya
+849;1;1;2024-05-21;875.34;Porto;Portugal
+850;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+851;12;78;2024-02-14;489.22;Bahia;Brazil
+853;77;45;2023-10-15;124.89;Luanda;Angola
+854;15;67;2023-09-11;678.45;Lisbon;Portugal
+855;88;89;2023-01-22;299.99;Lagos;Nigeria
+856;30;78;2023-03-14;543.21;New Castle;England
+858;11;56;2023-11-04;432.1;Sochi;Russia
+859;25;34;2024-01-19;764.32;Lviv;Ukraine
+860;66;79;2023-02-11;199.95;Nairobi;Kenya
+862;1;1;2024-05-21;875.34;Porto;Portugal
+863;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+864;12;78;2024-02-14;489.22;Bahia;Brazil
+865;15;67;2023-09-11;678.45;Lisbon;Portugal
+866;88;89;2023-01-22;299.99;Lagos;Nigeria
+867;30;78;2023-03-14;543.21;New Castle;England
+871;77;45;2023-10-15;124.89;Luanda;Angola
+872;15;67;2023-09-11;678.45;Lisbon;Portugal
+873;88;89;2023-01-22;299.99;Lagos;Nigeria
+874;30;78;2023-03-14;543.21;New Castle;England
+876;11;56;2023-11-04;432.1;Sochi;Russia
+877;25;34;2024-01-19;764.32;Lviv;Ukraine
+878;66;79;2023-02-11;199.95;Nairobi;Kenya
+880;1;1;2024-05-21;875.34;Porto;Portugal
+881;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+882;12;78;2024-02-14;489.22;Bahia;Brazil
+884;77;45;2023-10-15;124.89;Luanda;Angola
+885;15;67;2023-09-11;678.45;Lisbon;Portugal
+886;88;89;2023-01-22;299.99;Lagos;Nigeria
+887;30;78;2023-03-14;543.21;New Castle;England
+889;11;56;2023-11-04;432.1;Sochi;Russia
+890;25;34;2024-01-19;764.32;Lviv;Ukraine
+891;66;79;2023-02-11;199.95;Nairobi;Kenya
+893;1;1;2024-05-21;875.34;Porto;Portugal
+894;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+895;12;78;2024-02-14;489.22;Bahia;Brazil
+896;15;67;2023-09-11;678.45;Lisbon;Portugal
+897;88;89;2023-01-22;299.99;Lagos;Nigeria
+898;30;78;2023-03-14;543.21;New Castle;England
+902;77;45;2023-10-15;124.89;Luanda;Angola
+903;15;67;2023-09-11;678.45;Lisbon;Portugal
+904;88;89;2023-01-22;299.99;Lagos;Nigeria
+905;30;78;2023-03-14;543.21;New Castle;England
+907;11;56;2023-11-04;432.1;Sochi;Russia
+908;25;34;2024-01-19;764.32;Lviv;Ukraine
+909;66;79;2023-02-11;199.95;Nairobi;Kenya
+911;1;1;2024-05-21;875.34;Porto;Portugal
+912;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+913;12;78;2024-02-14;489.22;Bahia;Brazil
+915;77;45;2023-10-15;124.89;Luanda;Angola
+916;15;67;2023-09-11;678.45;Lisbon;Portugal
+917;88;89;2023-01-22;299.99;Lagos;Nigeria
+918;30;78;2023-03-14;543.21;New Castle;England
+920;11;56;2023-11-04;432.1;Sochi;Russia
+921;25;34;2024-01-19;764.32;Lviv;Ukraine
+922;66;79;2023-02-11;199.95;Nairobi;Kenya
+924;1;1;2024-05-21;875.34;Porto;Portugal
+925;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+926;12;78;2024-02-14;489.22;Bahia;Brazil
+927;15;67;2023-09-11;678.45;Lisbon;Portugal
+928;88;89;2023-01-22;299.99;Lagos;Nigeria
+929;30;78;2023-03-14;543.21;New Castle;England
+933;77;45;2023-10-15;124.89;Luanda;Angola
+934;15;67;2023-09-11;678.45;Lisbon;Portugal
+935;88;89;2023-01-22;299.99;Lagos;Nigeria
+936;30;78;2023-03-14;543.21;New Castle;England
+938;11;56;2023-11-04;432.1;Sochi;Russia
+939;25;34;2024-01-19;764.32;Lviv;Ukraine
+940;66;79;2023-02-11;199.95;Nairobi;Kenya
+942;1;1;2024-05-21;875.34;Porto;Portugal
+943;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+944;12;78;2024-02-14;489.22;Bahia;Brazil
+946;77;45;2023-10-15;124.89;Luanda;Angola
+947;15;67;2023-09-11;678.45;Lisbon;Portugal
+948;88;89;2023-01-22;299.99;Lagos;Nigeria
+949;30;78;2023-03-14;543.21;New Castle;England
+951;11;56;2023-11-04;432.1;Sochi;Russia
+952;25;34;2024-01-19;764.32;Lviv;Ukraine
+953;66;79;2023-02-11;199.95;Nairobi;Kenya
+955;1;1;2024-05-21;875.34;Porto;Portugal
+956;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+957;12;78;2024-02-14;489.22;Bahia;Brazil
+958;15;67;2023-09-11;678.45;Lisbon;Portugal
+959;88;89;2023-01-22;299.99;Lagos;Nigeria
+960;30;78;2023-03-14;543.21;New Castle;England
+964;77;45;2023-10-15;124.89;Luanda;Angola
+965;15;67;2023-09-11;678.45;Lisbon;Portugal
+966;88;89;2023-01-22;299.99;Lagos;Nigeria
+967;30;78;2023-03-14;543.21;New Castle;England
+969;11;56;2023-11-04;432.1;Sochi;Russia
+970;25;34;2024-01-19;764.32;Lviv;Ukraine
+971;66;79;2023-02-11;199.95;Nairobi;Kenya
+973;1;1;2024-05-21;875.34;Porto;Portugal
+974;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+975;12;78;2024-02-14;489.22;Bahia;Brazil
+977;77;45;2023-10-15;124.89;Luanda;Angola
+978;15;67;2023-09-11;678.45;Lisbon;Portugal
+979;88;89;2023-01-22;299.99;Lagos;Nigeria
+980;30;78;2023-03-14;543.21;New Castle;England
+982;11;56;2023-11-04;432.1;Sochi;Russia
+983;25;34;2024-01-19;764.32;Lviv;Ukraine
+984;66;79;2023-02-11;199.95;Nairobi;Kenya
+986;1;1;2024-05-21;875.34;Porto;Portugal
+987;2;3;2024-05-21;875.34;Sao Paulo;Brazil
+988;12;78;2024-02-14;489.22;Bahia;Brazil
+989;15;67;2023-09-11;678.45;Lisbon;Portugal
+990;88;89;2023-01-22;299.99;Lagos;Nigeria
+991;30;78;2023-03-14;543.21;New Castle;England
