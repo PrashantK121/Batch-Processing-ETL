@@ -17,7 +17,7 @@ public class JobScheduler {
     private final Job dbToFileJob;
     private final JobLauncher jobLauncher;
 
-    @Scheduled(cron = "0/30 * * * * *")
+    @Scheduled(cron = "* 40 12 * * *")
     @SneakyThrows
     void trigger() {
 

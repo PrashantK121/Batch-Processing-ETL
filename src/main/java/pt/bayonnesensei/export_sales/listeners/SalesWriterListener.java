@@ -3,6 +3,7 @@ package pt.bayonnesensei.export_sales.listeners;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.batch.core.ItemWriteListener;
+import org.springframework.batch.core.annotation.AfterWrite;
 import org.springframework.batch.item.Chunk;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.namedparam.MapSqlParameterSource;
@@ -20,7 +21,7 @@ public class SalesWriterListener implements ItemWriteListener<SalesDTO> {
 
     private final JdbcTemplate jdbcTemplate;
 
-    @Override
+    @AfterWrite
     public void afterWrite(Chunk<? extends SalesDTO> items) {
 
         List<Long> itemWrittenIds = items.getItems()
