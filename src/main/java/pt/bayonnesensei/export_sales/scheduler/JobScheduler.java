@@ -21,7 +21,7 @@ public class JobScheduler {
     @SneakyThrows
     void trigger() {
 
-        var fileName = LocalDate.now().toString().concat("_sales.csv");
+        var fileName = LocalDate.now().toString().concat("_sales-info.csv");
 
         var jobParameters = new JobParametersBuilder()
                 .addString("output.file.name", fileName)

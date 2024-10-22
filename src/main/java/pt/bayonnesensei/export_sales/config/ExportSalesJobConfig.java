@@ -9,6 +9,7 @@ import org.springframework.batch.core.job.builder.JobBuilder;
 import org.springframework.batch.core.launch.support.RunIdIncrementer;
 import org.springframework.batch.core.repository.JobRepository;
 import org.springframework.batch.core.step.builder.StepBuilder;
+import org.springframework.batch.core.step.builder.TaskletStepBuilder;
 import org.springframework.batch.item.database.JdbcCursorItemReader;
 import org.springframework.batch.item.database.JdbcPagingItemReader;
 import org.springframework.batch.item.database.Order;
@@ -28,6 +29,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 import pt.bayonnesensei.export_sales.dto.SalesDTO;
 import pt.bayonnesensei.export_sales.listeners.SalesWriterListener;
 import pt.bayonnesensei.export_sales.processor.SalesProcessor;
+import pt.bayonnesensei.export_sales.task.UploadFileToS3BucketTasklet;
 
 import javax.sql.DataSource;
 import java.util.Collections;
@@ -44,12 +46,14 @@ public class ExportSalesJobConfig {
     private final JobRepository repository;
     private final PlatformTransactionManager transactionManager;
     private final SalesWriterListener salesWriterListener;
+    private final UploadFileToS3BucketTasklet uploadFileToS3BucketTasklet;
 
     @Bean
     public Job dbToFileJob(Step fromSalesTableToFile) {
         return new JobBuilder("dbToFileJob", repository)
                 .incrementer(new RunIdIncrementer())
                 .start(fromSalesTableToFile)
+                .next(uploadFileToS3())
                 .build();
     }
 
@@ -80,7 +84,7 @@ public class ExportSalesJobConfig {
 
     //JdbcPagingItemReader
     @Bean
-    public JdbcPagingItemReader<SalesDTO> salesJdbcPagingItemReader(PagingQueryProvider queryProvider){
+    public JdbcPagingItemReader<SalesDTO> salesJdbcPagingItemReader(PagingQueryProvider queryProvider) {
         return new JdbcPagingItemReaderBuilder<SalesDTO>()
                 .name("sales paging reader")
                 .dataSource(dataSource)
@@ -91,7 +95,7 @@ public class ExportSalesJobConfig {
     }
 
     @Bean
-    public SqlPagingQueryProviderFactoryBean queryProvider(){
+    public SqlPagingQueryProviderFactoryBean queryProvider() {
         var queryProvider = new SqlPagingQueryProviderFactoryBean();
         queryProvider.setSelectClause("SELECT sale_id, product_id, customer_id, sale_date, sale_amount, store_location, country");
         queryProvider.setFromClause("FROM Sales");
@@ -116,7 +120,13 @@ public class ExportSalesJobConfig {
                 .shouldDeleteIfEmpty(Boolean.FALSE)
                 .append(Boolean.TRUE)
                 .build();
+    }
 
+    @Bean
+    public Step uploadFileToS3() {
+        return new TaskletStepBuilder(new StepBuilder("uploadFileToS3", repository))
+                .tasklet(uploadFileToS3BucketTasklet, transactionManager)
+                .build();
     }
 
 }
