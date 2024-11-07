@@ -10,7 +10,7 @@ import pt.bayonnesensei.export_sales.dto.SalesDTO;
 public class SalesProcessor implements ItemProcessor<SalesDTO, SalesDTO> {
     @Override
     public SalesDTO process(SalesDTO item) throws Exception {
-        log.info("processing the item: {}", item);
+        log.debug("processing the item: {}", item);
         if ("United States".equalsIgnoreCase(item.country())) {
             return null;
         }
